@@ -1,0 +1,11 @@
+Region,Age,IncomeLevel,PreferredProduct,SpendingScore
+North,35,55000,Electronics,70
+South,42,62000,Groceries,85
+East,29,48000,Clothing,60
+West,50,70000,Furniture,90
+Central,38,59000,Groceries,75
+North,33,53000,Electronics,68
+South,45,64000,Groceries,88
+East,31,47000,Clothing,58
+West,48,68000,Furniture,92
+Central,36,60000,Groceries,77
